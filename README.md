@@ -1,5 +1,4 @@
-# Conv-LoRA
-## Low Rank Adapters on Convolutional layers in CNN based attack to compromise group fairness in Federated Learning. 
+# Conv-LoRA Based Fairness Poisoning in Federated Learning
 ### [Poster.](PosterPresentation.pdf)
 
 
